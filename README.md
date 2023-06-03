@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Juupfeiffer
+- 🇧🇷 I'm from Brazil (we write Brasil)
+- 🌱 I’m currently learning front-end and python
+- 💞️ I’m looking to collaborate on creative, beautiful projects
